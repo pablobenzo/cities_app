@@ -8,7 +8,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "4D984EB4-4790-47A9-9569-2485947936B4"
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cities/ListOfCities/ListOfCitiesView.swift"
@@ -48,6 +48,99 @@
                   startingLineNumber = "31"
                   endingLineNumber = "31"
                   offsetFromSymbolStart = "297">
+               </Location>
+               <Location
+                  uuid = "4D984EB4-4790-47A9-9569-2485947936B4 - 5c34cf9326a87d8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Cities.CitiesInfo&gt;, Swift.String, SwiftUI.NavigationLink&lt;SwiftUI.Text, Cities.ListOfCitiesMapView&gt;&gt; in closure #1 () -&gt; SwiftUI.LazyVStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Cities.CitiesInfo&gt;, Swift.String, SwiftUI.NavigationLink&lt;SwiftUI.Text, Cities.ListOfCitiesMapView&gt;&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ScrollView&lt;&lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0&gt; in Cities.ListOfCitiesView.body.getter : some"
+                  moduleName = "Cities"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablo/Desktop/Cursos/Apps/Cities/Cities/ListOfCities/ListOfCitiesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "175">
+               </Location>
+               <Location
+                  uuid = "4D984EB4-4790-47A9-9569-2485947936B4 - 3cd07b35c77236c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Cities.CitiesInfo) -&gt; SwiftUI.NavigationLink&lt;SwiftUI.Text, Cities.ListOfCitiesMapView&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Cities.CitiesInfo&gt;, Swift.String, SwiftUI.NavigationLink&lt;SwiftUI.Text, Cities.ListOfCitiesMapView&gt;&gt; in closure #1 () -&gt; SwiftUI.LazyVStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Cities.CitiesInfo&gt;, Swift.String, SwiftUI.NavigationLink&lt;SwiftUI.Text, Cities.ListOfCitiesMapView&gt;&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ScrollView&lt;&lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0&gt; in Cities.ListOfCitiesView.body.getter : some"
+                  moduleName = "Cities"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablo/Desktop/Cursos/Apps/Cities/Cities/ListOfCities/ListOfCitiesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "243">
+               </Location>
+               <Location
+                  uuid = "4D984EB4-4790-47A9-9569-2485947936B4 - 5c34cf9326a87d8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Cities.CitiesInfo&gt;, Swift.String, SwiftUI.NavigationLink&lt;SwiftUI.Text, Cities.ListOfCitiesMapView&gt;&gt; in closure #1 () -&gt; SwiftUI.LazyVStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Cities.CitiesInfo&gt;, Swift.String, SwiftUI.NavigationLink&lt;SwiftUI.Text, Cities.ListOfCitiesMapView&gt;&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ScrollView&lt;&lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0&gt; in Cities.ListOfCitiesView.body.getter : some"
+                  moduleName = "Cities"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablo/Desktop/Cursos/Apps/Cities/Cities/ListOfCities/ListOfCitiesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "189">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25F54A31-FADF-47DB-B06D-4F0D77FCFBC6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cities/ListOfCities/ListOfCitiesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "25F54A31-FADF-47DB-B06D-4F0D77FCFBC6 - a79c08cfd7a8b1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Cities.ListOfCitiesViewModel.fetchData() async -&gt; ()"
+                  moduleName = "Cities"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablo/Desktop/Cursos/Apps/Cities/Cities/ListOfCities/ListOfCitiesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "591">
+               </Location>
+               <Location
+                  uuid = "25F54A31-FADF-47DB-B06D-4F0D77FCFBC6 - b295195ef914c4f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Cities.CitiesInfo, Cities.CitiesInfo) -&gt; Swift.Bool in Cities.ListOfCitiesViewModel.fetchData() async -&gt; ()"
+                  moduleName = "Cities"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablo/Desktop/Cursos/Apps/Cities/Cities/ListOfCities/ListOfCitiesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "71">
                </Location>
             </Locations>
          </BreakpointContent>
